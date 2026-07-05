@@ -1,0 +1,32 @@
+name: Format and Lint Blocklist
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run Cleanup Script
+      run: python cleanup_list.py
+
+    - name: Commit and Push Changes
+      if: github.event_name == 'push'
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Automated format, sorting, and deduplication of Creationists.json"
+        file_pattern: 'Creationists.json'
