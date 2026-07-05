@@ -1,1 +1,44 @@
-
+[
+  {
+    "domain": "answersingenesis.org",
+    "category": "Young Earth Creationism",
+    "reason": "Promotes a literal 6,000-year-old Earth, human-dinosaur coexistence, and a global flood responsible for all fossil layers.",
+    "scientific_resource": "https://talkorigins.org"
+  },
+  {
+    "domain": "icr.org",
+    "category": "Young Earth Creationism",
+    "reason": "The Institute for Creation Research uses distorted physical and geological science to validate biblical text over empirical evidence.",
+    "scientific_resource": "https://ncse.ngo"
+  },
+  {
+    "domain": "creation.com",
+    "category": "Young Earth Creationism",
+    "reason": "Creation Ministries International publishes pseudoscientific articles attacking evolutionary biology, radiometric dating, and astrophysics.",
+    "scientific_resource": "https://biologos.org"
+  },
+  {
+    "domain": "discovery.org",
+    "category": "Intelligent Design",
+    "reason": "The Discovery Institute leads the 'Wedge Strategy' to rebrand creationism into public schools using pseudoscientific terms like irreducible complexity.",
+    "scientific_resource": "https://panmurehouse.org"
+  },
+  {
+    "domain": "evolutionnews.org",
+    "category": "Intelligent Design",
+    "reason": "An offshoot media outlet of the Discovery Institute that misrepresents peer-reviewed biology to manufacture false doubt about evolution.",
+    "scientific_resource": "https://nas.edu"
+  },
+  {
+    "domain": "trueorigin.org",
+    "category": "Creation-Science",
+    "reason": "An archive specifically designed to host deceptive biological rebuttals against mainstream science archives like TalkOrigins.",
+    "scientific_resource": "https://talkorigins.org"
+  },
+  {
+    "domain": "creationresearch.net",
+    "category": "Young Earth Creationism",
+    "reason": "Promotes anti-evolution curricula, literal Genesis accounts, and misleading geology tours claiming the Grand Canyon formed in days.",
+    "scientific_resource": "https://usgs.gov"
+  }
+]
