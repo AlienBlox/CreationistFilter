@@ -13,3 +13,5 @@ Example entry:
   }
 ]
 ```
+
+[Raw file (Useful for making a blocklist for Creationist Sites)](https://github.com/AlienBlox/CreationistFilter/raw/refs/heads/main/Creationists.json)
