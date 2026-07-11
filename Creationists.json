@@ -53,4 +53,10 @@
     "reason": "Supports intelligent design and pretends to be scientific",
     "scientific_resource": "https://evolution.berkeley.edu"
   },
+  {
+    "domain": "www.creationism.org",
+    "category": "Creationist Aggregate",
+    "reason": "Aggregates young earth creationist websites",
+    "scientific_resource": "https://nas.edu"
+  }
 ]
