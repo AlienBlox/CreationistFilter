@@ -40,5 +40,17 @@
     "category": "Creation-Science",
     "reason": "An archive specifically designed to host deceptive biological rebuttals against mainstream science archives like TalkOrigins.",
     "scientific_resource": "https://talkorigins.org"
-  }
+  },
+  {
+    "domain": "www.reasons.org",
+    "category": "Old Earth Creationism",
+    "reason": "Accepts the age of the Earth being ~4.5 billion years old but promotes creationism",
+    "scientific_resource": "https://evolution.berkeley.edu"
+  },
+  {
+    "domain": "www.arn.org",
+    "category": "Intelligent Design",
+    "reason": "Supports intelligent design and pretends to be scientific",
+    "scientific_resource": "https://evolution.berkeley.edu"
+  },
 ]
